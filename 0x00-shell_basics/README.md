@@ -4,3 +4,5 @@ SCRIPTS			FUCTION
 1-listit: Displays contents list of your current directory
 
 2-bring_home: A scripts that changes the working directory to users home directory
+
+3-listfiles: Displays current directory content in a long format.
