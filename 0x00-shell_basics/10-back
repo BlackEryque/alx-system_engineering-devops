@@ -1,2 +1,2 @@
 #!/bin/bash
-cd-		#move back one folder from pwid
+cd -		#move back one folder from pwid
