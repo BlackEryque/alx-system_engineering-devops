@@ -4,4 +4,6 @@
 
 2-groups: Prints all groups the current user belongs to
 
-3-new_owner: Changes owner of hello file to betty 
+3-new_owner: Changes owner of hello file to betty
+
+4-empty: Creates an empty file 
