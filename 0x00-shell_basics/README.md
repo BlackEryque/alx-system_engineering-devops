@@ -10,3 +10,5 @@ SCRIPTS			FUCTION
 4-listmorefiles: Display current directory contents, including hidden files
 
 5-listfilesdigitonly: Display content dir with user and groups IDs
+
+6-firstdirectory: Creates folder in tmp directory
