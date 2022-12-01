@@ -8,3 +8,5 @@ SCRIPTS			FUCTION
 3-listfiles: Displays current directory content in a long format.
 
 4-listmorefiles: Display current directory contents, including hidden files
+
+5-listfilesdigitonly: Display content dir with user and groups IDs
