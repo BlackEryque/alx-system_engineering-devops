@@ -20,3 +20,5 @@ SCRIPTS			FUCTION
 9-firstdirdeletion: deletes my_first_directory dir from /tmp/
 
 10-back: move back previous dir from pwd
+
+11-lists: lists all files in current and parent directory plus boot
