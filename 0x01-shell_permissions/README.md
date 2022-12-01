@@ -12,4 +12,6 @@
 
 6-multiple_permissions: adding execute commands to owner and group and read for others
 
-7-everybody: adding execution permission to owner, group and users 
+7-everybody: adding execution permission to owner, group and users
+
+8-Jame_Bond: Gives all permissions to users and strips the rest 
