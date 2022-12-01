@@ -6,3 +6,5 @@ SCRIPTS			FUCTION
 2-bring_home: A scripts that changes the working directory to users home directory
 
 3-listfiles: Displays current directory content in a long format.
+
+4-listmorefiles: Display current directory contents, including hidden files
