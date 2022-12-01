@@ -26,3 +26,5 @@ SCRIPTS			FUCTION
 12-file_type: list the type of the file iamfile in /tmp
 
 13-symbolic_link: symbolic link to a file
+
+14-copy_html: copies all html files from working dir to parent dir
