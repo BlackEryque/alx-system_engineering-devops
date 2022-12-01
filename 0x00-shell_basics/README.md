@@ -16,3 +16,5 @@ SCRIPTS			FUCTION
 7-movethatfile: moves the file betty from /tmp/ to /tmp/my_first_director
 
 8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
+
+9-firstdirdeletion: deletes my_first_directory dir from /tmp/
