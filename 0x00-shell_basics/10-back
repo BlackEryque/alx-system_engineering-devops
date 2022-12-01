@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ../		#move back one folder from pwd

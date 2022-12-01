@@ -18,3 +18,5 @@ SCRIPTS			FUCTION
 8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
 
 9-firstdirdeletion: deletes my_first_directory dir from /tmp/
+
+10-back: move back previous dir from pwd
