@@ -14,3 +14,5 @@ SCRIPTS			FUCTION
 6-firstdirectory: Creates folder in tmp directory
 
 7-movethatfile: moves the file betty from /tmp/ to /tmp/my_first_director
+
+8-firstdelete: Deletes the file betty from /tmp/my_first_directory/
