@@ -12,3 +12,5 @@ SCRIPTS			FUCTION
 5-listfilesdigitonly: Display content dir with user and groups IDs
 
 6-firstdirectory: Creates folder in tmp directory
+
+7-movethatfile: moves the file betty from /tmp/ to /tmp/my_first_director
