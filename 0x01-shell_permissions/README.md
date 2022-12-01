@@ -8,4 +8,6 @@
 
 4-empty: Creates an empty file
 
-5-execute: Adds execute permission to a file hello 
+5-execute: Adds execute permission to a file hello
+
+6-multiple_permissions: adding execute commands to owner and group and read for others 
