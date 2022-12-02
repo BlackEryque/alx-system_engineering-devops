@@ -18,6 +18,10 @@
 
 9-Joh_Doe: Gives all permissions to owner, read and execute to group and write and execute to everyone 
 
-10-Directories: Grants execution permmissions to all subdirectoris of current directory for all
+10-mirror_permissions: copy permissions from other files
+
+11-Directories: Grants execution permmissions to all subdirectoris of current directory for all
 
 12-directory_permissions:creates a directory with 751 permissions
+
+13-change_group: Change group owner of file
