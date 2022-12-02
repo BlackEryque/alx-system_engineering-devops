@@ -17,3 +17,5 @@
 8-Jame_Bond: Gives all permissions to users and strips the rest
 
 9-Joh_Doe: Gives all permissions to owner, read and execute to group and write and execute to everyone 
+
+10-Directories: Grants execution permmissions to all subdirectoris of current directory for all
