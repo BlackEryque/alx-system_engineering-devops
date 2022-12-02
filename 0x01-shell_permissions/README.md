@@ -14,4 +14,6 @@
 
 7-everybody: adding execution permission to owner, group and users
 
-8-Jame_Bond: Gives all permissions to users and strips the rest 
+8-Jame_Bond: Gives all permissions to users and strips the rest
+
+9-Joh_Doe: Gives all permissions to owner, read and execute to group and write and execute to everyone 
