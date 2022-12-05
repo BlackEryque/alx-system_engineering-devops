@@ -19,3 +19,5 @@
 10-no_more_js: deletes all regular files with a .js extension
 
 11-directories: Counts number of directories in the current didrectory excluding it and the parent
+
+12-newest_files: Displays newest files per line from newest to old
