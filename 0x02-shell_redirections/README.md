@@ -16,4 +16,4 @@
 
 9-duplicate_last_line: duplicates the last line of the file
 
-
+10-no_more_js: deletes all regular files with a .js extension
