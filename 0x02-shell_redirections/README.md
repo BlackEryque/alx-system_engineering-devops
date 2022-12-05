@@ -5,3 +5,5 @@
 2-hellofile: Displays the contents of the passwd file
 
 3-twofiles: displays contents of two files
+
+4-lastlines: displays the last 10 lines of the passwd file
