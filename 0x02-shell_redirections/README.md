@@ -9,3 +9,5 @@
 4-lastlines: displays the last 10 lines of the passwd file
 
 5-firstlines: displays the fisrt 10 lines of passwd file
+
+6-thirdline: displays the third line in iacta file
