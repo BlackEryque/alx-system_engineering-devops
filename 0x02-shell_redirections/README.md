@@ -7,3 +7,5 @@
 3-twofiles: displays contents of two files
 
 4-lastlines: displays the last 10 lines of the passwd file
+
+5-firstlines: displays the fisrt 10 lines of passwd file
