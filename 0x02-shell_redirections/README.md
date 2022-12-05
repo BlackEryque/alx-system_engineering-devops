@@ -21,3 +21,5 @@
 11-directories: Counts number of directories in the current didrectory excluding it and the parent
 
 12-newest_files: Displays newest files per line from newest to old
+
+13-unique: Prints unique names
