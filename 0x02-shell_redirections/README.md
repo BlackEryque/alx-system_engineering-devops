@@ -31,3 +31,5 @@
 16-whatsnext: shows the lines root pattern appears in and the next three lines
 
 17-hidethisword: shows lines not containing a specified pattern eg bin
+
+18-letteronly: displays all lines of sile /etc/ssh/sshd_config starting with a letter
