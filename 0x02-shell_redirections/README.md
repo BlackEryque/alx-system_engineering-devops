@@ -38,3 +38,4 @@
 
 20-hiago: Delete letter c and C from an input
 
+21-reverse: reverses its input
