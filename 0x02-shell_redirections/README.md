@@ -24,5 +24,5 @@
 
 13-unique: Prints unique names
 
-14-findthatword: Displays lines containing the pattn
+14-findthatword: Displays lines containing the a specific pattern
 
