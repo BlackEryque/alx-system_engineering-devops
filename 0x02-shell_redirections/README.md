@@ -23,3 +23,5 @@
 12-newest_files: Displays newest files per line from newest to old
 
 13-unique: Prints unique names
+
+14-findthatword: Displays lines containing the patter root
