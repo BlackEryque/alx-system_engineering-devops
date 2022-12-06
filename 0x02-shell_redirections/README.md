@@ -35,3 +35,6 @@
 18-letteronly: displays all lines of sile /etc/ssh/sshd_config starting with a letter
 
 19-AZ: replaces all characters A and c from input to Z and e respectively
+
+20-hiago: Delete letter c and C from an input
+
