@@ -29,3 +29,5 @@
 15-countthatword: Displays number of lines the word bin apears in
 
 16-whatsnext: shows the lines root pattern appears in and the next three lines
+
+17-hidethisword: shows lines not containing a specified pattern eg bin
