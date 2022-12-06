@@ -27,3 +27,5 @@
 14-findthatword: Displays lines containing the a specific pattern
 
 15-countthatword: Displays number of lines the word bin apears in
+
+16-whatsnext: shows the lines root pattern appears in and the next three lines
