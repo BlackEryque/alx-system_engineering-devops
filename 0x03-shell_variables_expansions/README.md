@@ -28,3 +28,4 @@
 
 100-decimal_to_hexadecimal: conveerts from base 1o to base 16 and stores in a variable DECIMAL
 
+101-rot13: encode and decodes text using rot13 encrytpion
