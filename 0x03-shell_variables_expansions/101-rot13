@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'fooman@example.com' | rot13
+alias rot13="tr 'A-za-z' 'Z-NA-Mz-na-m' "
