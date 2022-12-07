@@ -39,3 +39,5 @@
 20-hiago: Delete letter c and C from an input
 
 21-reverse: reverses its input
+
+22-users_and_homes: displays all users and their home diectories and they are sorted by users
