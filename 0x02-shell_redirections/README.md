@@ -40,4 +40,6 @@
 
 21-reverse: reverses its input
 
-22-users_and_homes: displays all users and their home diectories and they are sorted by users
+22-users_and_homes: displays all users and their home diectories and they are sorted by user
+
+100-empty_casks: lists all empty files and subdirectories
